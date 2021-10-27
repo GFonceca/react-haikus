@@ -1,8 +1,8 @@
 import React from "react";
-import "./Home.css";
-import tarjeta from "./tarjeta";
+import "./tarjeta.css";
 
-const Home = () => {
+
+const tarjeta = ({Haiku, Nombre}) => {
     return (
         <tarjeta>
             <div>
@@ -12,4 +12,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default tarjeta;
