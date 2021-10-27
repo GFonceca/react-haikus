@@ -1,10 +1,4 @@
-.Tarjeta{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.Tarjeta{
-    height: 300px;
-    width: 500px;
+.ImagenTarjeta{
+    height: 100%;
+    width: 100%;
 }

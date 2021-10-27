@@ -1,14 +1,14 @@
 import React from "react";
 import "./Home.css";
-import tarjeta from "./tarjeta";
+import Tarjeta from "./tarjeta";
 
 const Home = () => {
     return (
-        <tarjeta>
-            <div>
-                <img className="Tarjeta" src="https://picsum.photos/200/300" alt="" />
-            </div>
-        </tarjeta>
+        <Home>
+            <Tarjeta>
+                dada
+            </Tarjeta>
+        </Home>
     );
 };
 

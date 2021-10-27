@@ -1,14 +1,16 @@
+
 import "./App.css";
 import Header from "./layout/Header";
-import Footer from "./layout/Footer";
-import Home from "./Home/Home";
 import Main from "./layout/Main";
+import Footer from "./layout/Footer";
 
-function App() {
+const App = () => {
   return (
     <>
       <Header />
-      <Main />
+      <Main>
+        cualquier contenido puede estar en
+      </Main>
       <Footer />
     </>
   );

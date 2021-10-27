@@ -1,14 +1,20 @@
 import React from "react";
 import "./Main.css";
 import Home from "../Home/Home";
-import tarjeta from "./tarjeta";
+//import Tarjeta from "../Home/tarjeta"
 
 const Main = ({ children }) => {
   return (
     <main>
-			<h1 className="H1">Haikus</h1>
+      <div>
+        <div>
+        <h1 className="H1">Haikus</h1>
 	     {children}
-       <Home />
+        </div>
+        <div>
+        <Home />
+        </div>
+      </div>
     </main>
   );
 };
