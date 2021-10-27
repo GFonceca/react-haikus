@@ -1,4 +1,14 @@
-ContenedorLinkFooter{
+.ContenedorLinkFooter{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
     flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.IconoLinkFooter{
+    height: 24px;
+    width: 24px;
 }
