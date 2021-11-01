@@ -8,7 +8,6 @@ const Footer = () => {
     <footer>
       <div><LinkFooter icono={faEnvelope} texto="Contactanos" /></div>
       <div><LinkFooter icono={faShare} texto="Compartir" /></div>
-      
     </footer>
   );
 };

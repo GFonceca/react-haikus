@@ -1,4 +1,6 @@
 .ImagenTarjeta{
+    display: flex;
+    justify-content: center;
     height: 100%;
     width: 100%;
 }
@@ -7,4 +9,15 @@
     height: 32px;
     width: 32px;
     border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.IconoCompartirTarjeta{
+    display: flex;
+    align-items: flex-end;
+}
+.cuerpoTarjeta{
+    display: grid;
+    justify-content: center;
 }
