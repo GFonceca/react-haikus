@@ -20,4 +20,7 @@
 .cuerpoTarjeta{
     display: grid;
     justify-content: center;
+    border-top: 20px;
+    border-right: 20px;
+    border-left: 20px;
 }

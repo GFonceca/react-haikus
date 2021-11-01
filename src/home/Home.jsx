@@ -5,7 +5,7 @@ import Tarjeta from "./tarjeta";
 const Home = () => {
   return (
     <>
-      <h4 className="H4"><h4>Colección</h4></h4>
+      <h4 className="H4">Coleccion</h4>
       <div id="galeria">
         <Tarjeta />
         <Tarjeta />
