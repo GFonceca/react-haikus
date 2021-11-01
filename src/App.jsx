@@ -1,15 +1,16 @@
-
+import React from "react";
 import "./App.css";
 import Header from "./layout/Header";
 import Main from "./layout/Main";
 import Footer from "./layout/Footer";
+import Home from './home/Home';
 
 const App = () => {
   return (
     <>
-      <Header />
+      <Header /> 
       <Main>
-        cualquier contenido puede estar en
+        <Home />
       </Main>
       <Footer />
     </>
