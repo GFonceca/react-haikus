@@ -1,23 +1,29 @@
 .ImagenTarjeta{
-    display: flex;
-    justify-content: center;
-    height: 100%;
     width: 100%;
 }
 
-.InfoTarjeta{
+.ImagenTarjeta > img{
+    width: 100%;
+}
+
+.imagenPerfil{
     height: 32px;
     width: 32px;
     border-radius: 50%;
-    margin-left: 10px;
-    margin-top: 10px;
+}
+
+.InfoTarjeta{
+    display: flex;
+    align-items: center;
+    
 }
 
 .IconoCompartirTarjeta{
     display: flex;
     align-items: flex-end;
 }
-.cuerpoTarjeta{
-    display: grid;
-    justify-content: center;
+.CuerpoDeTarjeta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
