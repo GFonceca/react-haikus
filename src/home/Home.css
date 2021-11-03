@@ -4,7 +4,8 @@
     align-items: center;
 }
 
-.galeria{
+#galeria{
     display: grid;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
 }
