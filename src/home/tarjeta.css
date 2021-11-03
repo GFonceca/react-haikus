@@ -22,17 +22,17 @@
     display: flex;
     align-items: flex-end;
 }
-<<<<<<< HEAD
+
+
 .cuerpoTarjeta{
     display: grid;
     justify-content: center;
     border-top: 20px;
     border-right: 20px;
     border-left: 20px;
-=======
-.CuerpoDeTarjeta{
+}
+.cuerpoDeTarjeta{
     display: flex;
     justify-content: space-between;
     align-items: center;
->>>>>>> master
 }
