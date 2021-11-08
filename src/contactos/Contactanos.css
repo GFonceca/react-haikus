@@ -1,7 +1,6 @@
-CuerpoContactos{
+.CuerpoContactos{
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: center;
 }
 
 #FacebookIcono{
@@ -23,4 +22,8 @@ CuerpoContactos{
     height: 30px;
     width: 30px;
     margin-right: 20px;
+}
+
+.Testo{
+    text-align: center;
 }

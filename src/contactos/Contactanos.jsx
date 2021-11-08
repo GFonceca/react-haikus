@@ -13,7 +13,9 @@ const Contactanos = () => {
         <FontAwesomeIcon icon ={faEnvelope} id="CorreoIcono"/>
         <FontAwesomeIcon icon ={faInstagramSquare} id="InstagramIcono"/>
     </div>
-      
+    <div>
+      <p className="Testo">Lorem ipsum dolor, sit amet <br /> consectetur adipisicing elit. <br /> Labore rerum ut esse illo molestias quasi numquam impedit, a odit magni nihil debitis consectetur <br /> blanditiis eius? Delectus perferendis magnam voluptatem aliquam.</p>
+    </div>
     </>
   );
 };
