@@ -20,17 +20,10 @@
 
 .IconoCompartirTarjeta{
     display: flex;
+    justify-content: center;
     align-items: flex-end;
 }
 
-
-.cuerpoTarjeta{
-    display: grid;
-    justify-content: center;
-    border-top: 20px;
-    border-right: 20px;
-    border-left: 20px;
-}
 .cuerpoDeTarjeta{
     display: flex;
     justify-content: space-between;

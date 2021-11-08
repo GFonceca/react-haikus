@@ -1,0 +1,10 @@
+.CuerpoContactanos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#faFacebook{
+    color: #f2a3b8;
+    margin-right: 30px;
+}
