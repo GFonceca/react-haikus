@@ -1,10 +1,26 @@
-.CuerpoContactanos{
+CuerpoContactos{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
-#faFacebook{
+#FacebookIcono{
     color: #f2a3b8;
-    margin-right: 30px;
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+}
+
+#CorreoIcono{
+    color: #f2a3b8;
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+}
+
+#InstagramIcono{
+    color: #f2a3b8;
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
 }
