@@ -7,11 +7,11 @@ const Home = () => {
     <>
       <h4 className="H4">Coleccion</h4>
       <div id="galeria">
-        <Tarjeta haiku="dddddddddddddddddddddddddddddddddddddddddddddddddddd" />
-        <Tarjeta />
-        <Tarjeta />
-        <Tarjeta />
-        <Tarjeta />
+        <Tarjeta autor="Pepito" Haiku="imagen subida para que vean todes vosotres" />
+        <Tarjeta autor="Pepito" Haiku="imagen subida para que vean todes vosotres" />
+        <Tarjeta autor="Pepito" Haiku="imagen subida para que vean todes vosotres" />
+        <Tarjeta autor="Pepito" Haiku="imagen subida para que vean todes vosotres" />
+        <Tarjeta autor="Pepito" Haiku="imagen subida para que vean todes vosotres" />
       </div>
     </>
   );
